@@ -5,3 +5,6 @@ Objectives :
 
 To develop a robust deep learning-based system that can accurately detect and classify garbage into predefined categories using image data. The project will compare the performance of EfficientNet, MobileNet, and YOLO architectures in terms of accuracy, speed, and efficiency. 
 The final model will be suitable for integration with mobile applications, smart bins, or surveillance systems for real-time waste detection.
+
+
+code file uploaded in google drive link : https://drive.google.com/drive/u/2/folders/1wFW_vxk9WpNOOpKlqpKto5iy0rsy7Ov8
